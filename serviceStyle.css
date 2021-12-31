@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Open+Sans+Condensed:wght@300&family=Oswald:wght@200&family=Poppins:wght@200;300;400;600&display=swap');
+
+.intro{
+    width: 100%;
+    height: 100vh;
+    background-image: url('img/servicesback.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bold-text{
+    font-size: 5rem;
+    margin-left: 40px; 
+    color: black; 
+    font-weight: bold;
+}
